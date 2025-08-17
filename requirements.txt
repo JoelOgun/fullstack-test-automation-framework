@@ -1,0 +1,6 @@
+pytest==8.4.1
+pytest-xdist==3.8.0
+selenium==4.35.0
+requests==2.32.3
+jsonschema==4.23.0
+python-dotenv==1.0.1
