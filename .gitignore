@@ -1,7 +1,36 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.sqlite
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Allure test reports
 allure-results/
 allure-report/
-*.sqlite
+
+# Environment files
 .env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Node (frontend)
+node_modules/
+
+# Accidental eval files
+eval*
+
+
